@@ -8,7 +8,7 @@ This is a portfolio website created using HTML, CSS, and JavaScript. The website
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
