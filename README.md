@@ -1,6 +1,6 @@
-# Portfolio Website
+#My Portfolio Website
 
-This is a portfolio website \created using HTML, CSS, and JavaScript. The website showcases my skills, services, and my work as a software engineering student and web developer.
+This is a portfolio website created using HTML, CSS, and JavaScript. The website showcases my skills, services, and my work as a software engineering student and web developer.
 ## Table of Contents
 
 - [Introduction](#introduction)
